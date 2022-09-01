@@ -1,1 +1,1 @@
-star wars script for episode iv
+execute permission to all subdirectories of a directory
