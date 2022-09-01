@@ -1,1 +1,1 @@
-execution permission to owner, groups and other user
+changes owner of a file
