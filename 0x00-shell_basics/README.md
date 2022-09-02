@@ -1,1 +1,1 @@
-display list of current directory
+display content list of current directory
