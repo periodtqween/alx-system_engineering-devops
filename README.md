@@ -1,1 +1,2 @@
- JESUS loves you
+content list of directory
+shell basics
