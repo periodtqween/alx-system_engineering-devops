@@ -1,1 +1,1 @@
-Write a script that displays the result of BREATH to the power LOVE
+Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
